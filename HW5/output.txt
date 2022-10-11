@@ -1,0 +1,6 @@
+beryllium's atomic number is 4 and atomic weight is 9.012
+magnesium's atomic number is 12 and atomic weight is 24.305
+calcium's atomic number is 20 and atomic weight is 20.078
+strontium's atomic number is 38 and atomic weight is 87.62
+barium's atomic number is 56 and atomic weight is 137.327
+radium's atomic number is 88 and atomic weight is 226
